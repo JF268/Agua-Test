@@ -1,0 +1,13 @@
+{
+    "name": "agua/componente",
+    "description": "Proyecto para aprender TDD",
+    "authors": [
+        {
+            "name":"jeanromero",
+            "email": "jf@correo.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
